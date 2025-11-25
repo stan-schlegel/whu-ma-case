@@ -3,8 +3,11 @@
 **Role:** Valuation Lead (DCF, Trading Comparables, Transaction Comparables)  
 **Project Type:** Sell-Side M&A Case | Valuation | Equity Story | Investment Banking
 
-This repository contains the full valuation workstream and deliverables developed for the **WHU M&A Case Competition 2025**, where our team achieved **1st place**.  
-All analysis is based solely on **case materials provided during the competition** or **publicly available information**. No confidential or proprietary data is used.
+This repository contains the full valuation workstream and deliverables developed for the **WHU M&A Case Competition 2025**, where our team achieved **1st place**. All analysis is based solely on **case materials provided during the competition** or **publicly available information**. No confidential or proprietary data is used.
+
+GitHub does **not** display Excel files in the browser. To view the full model:
+
+> Click in the above menu box on the desired Excel file → **Download**
 
 ---
 
